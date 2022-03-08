@@ -49,6 +49,10 @@ via API, the ability to order products through an employee's company
 Now I'm moving to live in Serbia in Belgrade. And I'm looking for good python-community in this country, in which I can freely communicate on various topics and develop together, passing on experience to each other. I have a passion for creating cool web systems, both in a relaxed environment and among other code-loving developers.
 Hope we get it together as soon as possible)
 
+## My Requirements:
+- Full-Time/Part-Time.
+- Remote job or Office in Serbia-Belgrade.
+- Salary >= 800$
 
 ## Contacts:
 My Telegram: [shaggy_axel](t.me/shaggy_axel) <br>
