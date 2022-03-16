@@ -52,7 +52,7 @@ Hope we get it together as soon as possible)
 ## My Requirements:
 - Full-Time/Part-Time.
 - Remote job or Office in Serbia-Belgrade.
-- Salary >= 800$
+- Salary >= 1200$
 
 ## Contacts:
 My Telegram: [shaggy_axel](t.me/shaggy_axel) <br>
