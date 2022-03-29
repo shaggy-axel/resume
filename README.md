@@ -1,9 +1,12 @@
 <h1>
-  Ruslan Korneev. 20y. <br>
+  Ruslan Korneev. <br>
   Python Django Backend Developer
 </h1>
 <img src="https://user-images.githubusercontent.com/79697348/157072469-d279a8d2-9153-4ac2-8247-4e24c1e08a36.png" width=90>
 
+## Portfolio
+- [GitHub Account](https://github.com/shaggy-axel)
+- [Pet-Projects](https://github.com/shaggy-axel-apps)
 
 ## Skills
 ```
@@ -46,15 +49,12 @@ via API, the ability to order products through an employee's company
 
 
 ## CV
-Now I'm moving to live in Serbia in Belgrade. And I'm looking for good python-community in this country, in which I can freely communicate on various topics and develop together, passing on experience to each other. I have a passion for creating cool web systems, both in a relaxed environment and among other code-loving developers.
+Now I've reached Serbia - Belgrade and I'm looking for good python-community in this country, in which I can freely communicate on various topics and develop together, passing on experience to each other. I have a passion for creating cool web systems, both in a relaxed environment and among other code-loving developers.
 Hope we get it together as soon as possible)
 
-## My Requirements:
-- Full-Time/Part-Time.
-- Remote job or Office in Serbia-Belgrade.
-- Salary >= 1200$
 
 ## Contacts:
+Phone: +381 63 1256805 <br>
+WhatsApp: +381 63 1256805 <br>
 My Telegram: [shaggy_axel](t.me/shaggy_axel) <br>
-My Mail: shaggy_gud01@mail.ru <br>
-My GitHub: [shaggy-axel](github.com/shaggy-axel)
+My Mail: shaggybackend@gmail.com <br>
