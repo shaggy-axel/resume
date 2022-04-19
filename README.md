@@ -11,7 +11,8 @@
 ## Skills
 ```
 Python, Django, Django REST Framework.
-BeautifulSoup, requests.
+BeautifulSoup, requests, GraphQL.
+Architecture and design patterns in Python.
 Aiogram, telebot, telethon, Telegram-API.
 SQL, DjangoORM, SQLAlchemy.
 PostgreSQL, Redis, Rabbit.
@@ -21,8 +22,11 @@ Nginx, Linux, Bash, Bash Scripts.
 Can build small wsgi-framework. Jinja2.
 CI/CD - github workflow.
 Grafana, Prometheus.
+TCP and HTTP, Internet-Protocols and Web
+
 HTML/CSS, JS.
-Study ReactJS(Know react-router-dom, axios, material-ui, universal-cookies, can build jwt-auth) and TypeScript
+Study ReactJS(Know react-router-dom, axios, material-ui,
+universal-cookies, can build jwt-auth) and TypeScript
 ```
 
 ## About experience
@@ -49,12 +53,12 @@ via API, the ability to order products through an employee's company
 
 
 ## CV
-Now I've reached Serbia - Belgrade and I'm looking for good python-community in this country, in which I can freely communicate on various topics and develop together, passing on experience to each other. I have a passion for creating cool web systems, both in a relaxed environment and among other code-loving developers.
+Now I've reached Serbia, Belgrade, and I'm looking for good python-community in this country, in which I can freely communicate on various topics and develop together, passing on experience to each other. I have a passion for creating cool web systems, both in a relaxed environment and among other code-loving developers.
 Hope we get it together as soon as possible)
 
 
 ## Contacts:
-Phone: +381 63 1256805 <br>
+Phone:    +381 63 1256805 <br>
 WhatsApp: +381 63 1256805 <br>
-My Telegram: [shaggy_axel](t.me/shaggy_axel) <br>
+My Telegram: [shaggy_axel](https://t.me/shaggy_axel) <br>
 My Mail: shaggybackend@gmail.com <br>
